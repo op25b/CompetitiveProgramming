@@ -1,3 +1,6 @@
+# ABC427A
+# https://atcoder.jp/contests/abc427/tasks/abc427_a
+
 s_str = input()
 s_len = len(s_str)
 

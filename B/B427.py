@@ -1,3 +1,6 @@
+# ABC427B
+# https://atcoder.jp/contests/abc427/tasks/abc427_b
+
 n_int = int(input())
 
 total = 0
