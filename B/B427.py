@@ -1,17 +1,17 @@
 # ABC427B
 # https://atcoder.jp/contests/abc427/tasks/abc427_b
 
-n_int = int(input())
+N_INT = int(input())
 
 total = 0
 
-for n_int_i in range(n_int):
+for n_int_i in range(N_INT):
   if n_int_i == 0:
     total = 1
     continue
   
-  total_str = str(total)
-  for total_char in total_str:
+  TOTAL_STR = str(total)
+  for total_char in TOTAL_STR:
     total += int(total_char)
 
 print(total)

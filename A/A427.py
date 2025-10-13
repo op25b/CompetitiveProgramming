@@ -1,11 +1,11 @@
 # ABC427A
 # https://atcoder.jp/contests/abc427/tasks/abc427_a
 
-s_str = input()
-s_len = len(s_str)
+S_STR = input()
+S_LEN = len(S_STR)
 
-center = (s_len * 1) // 2
+CENTER = (S_LEN * 1) // 2
 
-answer = s_str[0: center] + s_str[center + 1 : s_len]
+ANSWER = S_STR[0: CENTER] + S_STR[CENTER + 1 : S_LEN]
 
-print(answer)
+print(ANSWER)
