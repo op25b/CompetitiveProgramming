@@ -1,4 +1,4 @@
-# ADT2510163
+# ADT2510163C
 # https://atcoder.jp/contests/adt_medium_20251016_3/tasks/abc352_b
 
 S_STR = input()

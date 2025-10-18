@@ -1,4 +1,4 @@
-# ADR2510163
+# ADR2510163D
 # https://atcoder.jp/contests/adt_medium_20251016_3/tasks/abc303_b
 
 N_INT, M_INT = map(int, input().split())
